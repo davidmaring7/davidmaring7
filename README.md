@@ -1,9 +1,9 @@
 # David Marin
 
-Hola! 👋 Soy David, un ingeniero de software apasionado con 5 años de experiencia en el campo. Me especializo en el desarrollo utilizando Ruby, Python y JavaScript, y tengo conocimientos en C. Disfruto explorando nuevas tecnologías y aprendiendo continuamente.
+Hola! 👋 Soy David, un ingeniero de software apasionado con 7 años de experiencia en el campo. Me especializo en el desarrollo utilizando Ruby, Python y JavaScript, y tengo conocimientos en C. Disfruto explorando nuevas tecnologías y aprendiendo continuamente.
 
 ## Sobre mí
-- 💻 Ingeniero de software con 5 años de experiencia
+- 💻 Ingeniero de software con 7 años de experiencia
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
 - ⚙️ Experiencia con Ruby, Python, JavaScript
 - 🔧 Conocimientos en C
